@@ -32,8 +32,9 @@
 const ian = {
   name: "Ian Purificacion",
   alias: "IAN",
+  website: "https://ianpurif.vercel.app",
   location: "Philippines 🇵🇭",
-  education: "Bachelor of Science (B.S.) in Computer Science",
+  education: "Bachelor of Science in Computer Science",
   experience: "3 years of freelance experience building full-stack web apps",
   currentFocus: ["Modern Tech & AI", "Full-Stack Development"],
   askMeAbout: ["Tech Trends", "Manhwa", "Coding Tips & Best Practices"],
