@@ -14,7 +14,7 @@
 
 ---
 
-## 🏅 Recognition
+## Recognition
 
 <div align="center">
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```typescript
 const ian = {
@@ -85,7 +85,7 @@ const ian = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -107,7 +107,7 @@ const ian = {
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -118,11 +118,11 @@ const ian = {
 
 ---
 
-## ⚡ Random Dev Quote
+## Quote
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+future+of+AI+is+not+about+replacing+humans%2C+it%27s+about+making+them+more+capable.&author=Sundar+Pichai)](https://github.com/piyushsuthar/github-readme-quotes)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If+they+don%27t+support+you+at+%60localhost%3A3000%60%2C+they+don%27t+deserve+you+at+%60.vercel.app%60.&author=Claudious+GPTon)
 
 </div>
 
