@@ -14,8 +14,6 @@
 
 ---
 
-## Recognition
-
 <div align="center">
 
 ✨ Ranked among the **Top 10 Most Followed GitHub Developers** in the Philippines ✨
