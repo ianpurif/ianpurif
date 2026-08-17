@@ -107,17 +107,6 @@ const ian = {
 
 ---
 
-## Connect With Me
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ianpurificacion2002@gmail.com)
-[![CV](https://img.shields.io/badge/Download%20CV-1F8FEB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/ianpurifying/ianpurifying/main/ian_purificacion_cv.pdf)
-
-</div>
-
----
-
 ## Quote
 
 <div align="center">
@@ -126,10 +115,3 @@ const ian = {
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F8FEB&height=100&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=FFFFFF&animation=fadeIn"/>
-
-</div>
